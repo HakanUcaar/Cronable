@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\Cronable.csproj" />
+    <ProjectReference Include="..\Cronable\Cronable.csproj" />
   </ItemGroup>
 
 </Project>
