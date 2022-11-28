@@ -1,5 +1,5 @@
 # Cronable
-Add abilities to your classes
+Add cron job ability to your class methods
 
 ## Usage
 Implement
